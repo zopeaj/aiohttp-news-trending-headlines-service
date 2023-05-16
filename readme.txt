@@ -1,0 +1,5 @@
+Tools and Technologies: FastAPI, News API, MongoDB, Docker
+
+Project Solution Approach: With this project, you can create a useful tool for yourself and others who want to stay up-to-date with the latest news. This project involves building an API to retrieve and present news articles from various sources. To build this project, you will use FastAPI, a modern, fast web framework for building APIs. The News API provides access to a large database of news articles from various sources. You can use MongoDB as a database to store the retrieved news articles. Docker can be used for containerization and deployment. You will create a new FastAPI project and install the necessary packages to get started with this project. You can then use the News API to retrieve news articles and store them in MongoDB. Finally, you will build the API endpoints using FastAPI to retrieve and present the news articles to the user.
+Intermediate-Level FastAPI Projects
+Below are four intermediate-level FastAPI project ideas for those familiar with this framework and looking to gain a deeper understanding of how to run a FastAPI app-
